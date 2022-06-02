@@ -3,6 +3,7 @@ package com.sandipbhattacharya.spaceshooter;
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
+//Creating spaceshooter game
 
 public class MainActivity extends AppCompatActivity {
 
